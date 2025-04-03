@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Inicial</title>
+    <link rel="stylesheet" href="css oficial.css
+    ">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao meu site de Desenvolvimento</h1>
+        <nav>
+            <ul>
+                <li><a href="formulario.html">Formulário</a></li>
+                <li><a href="sobre.html">Sobre Tecnologias</a></li>
+                <li><a href="tabela.html">Tecnologias Estudadas</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Início do Meu Desenvolvimento</h2>
+            <p>Este site contém informações sobre meu progresso no aprendizado de tecnologias e linguagens de programação. Aqui estão algumas áreas que estou explorando.</p>
+            <img src="imagem.jpg" alt="Imagem exemplo" width="300">
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 - Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
